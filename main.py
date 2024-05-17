@@ -3,7 +3,6 @@ from blocks import *
 from grid import Grid
 from colors import Colors
 import random
-from helper_funcs import *
 
 class Game():
     screens = {
